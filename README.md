@@ -1,2 +1,2 @@
 # hurricane
-Repo fotbthe hurricane web pages
+Repo for the hurricane web pages
