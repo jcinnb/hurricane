@@ -9,9 +9,10 @@ h1 {
 }
 
 h2 {
-	color: #0C4792;
+	color: #0043573;
 	font-size: 60px;
 	text-align: center;
+	text-shadow: 2px 2px #B1F723;
 }
 
 table {
