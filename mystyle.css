@@ -4,13 +4,14 @@
 }
 h1 {
 	color: purple;
-	font-size: 50px;
+	font-size: 80px;
 	text-align: center;
 }
 
 h2 {
-	color: red;
-	font-size: 30px;
+	color: #F4E323;
+	text-shadow: 2px 2px #0C4792;
+	font-size: 60px;
 	text-align: center;
 }
 
