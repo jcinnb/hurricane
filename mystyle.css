@@ -1,8 +1,7 @@
-html {
+ #div1.  {
 	background-size: cover;
-    background: linear-gradient(to bottom, #33cccc 0%, #99ffcc 56%);
+    background-image: url("http://i3.mirror.co.uk/incoming/article11124681.ece/ALTERNATES/s810/Waves-crash-against-the-seawall-in-Fajardo-as-Hurricane-Irma-slammed-across-islands-in-the-northern.jpg");
 }
-
 h1 {
 	color: purple;
 	font-size: 50px;
