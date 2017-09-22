@@ -10,11 +10,19 @@ h1 {
 
 h2 {
 	color: #F4E323;
-	text-shadow: 2px 2px #0C4792;
 	font-size: 60px;
 	text-align: center;
 }
 
+a:link {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-shadow: 2px 2px #0C4792;
+    text-decoration: none;
+    display: inline-block;
+}
 table {
 	width: 100%
 }
